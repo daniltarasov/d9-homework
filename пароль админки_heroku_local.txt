@@ -1,0 +1,3 @@
+pws_admin
+heroku: sf_password_pws-14
+local: sf_password

@@ -1,0 +1,6 @@
+{
+  "name": "D9",
+  "description": "rest-api",
+  "image": "heroku/python",
+  "keywords": ["python", "django" ]
+}
